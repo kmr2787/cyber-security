@@ -1,2 +1,3 @@
 import os 
 os.system(“nmap 192.168.1.0/24 –oX kamer.xml”)
+os.system(“nmap Google.com –oX kamer.xml”)
